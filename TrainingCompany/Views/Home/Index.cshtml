@@ -1,0 +1,22 @@
+﻿<h2>Courses</h2>
+
+<ol id="courses">
+    
+</ol>
+
+
+@section scripts
+    {
+            <script>
+                $.ajax({
+                    url: "/api/courses",
+                    Accept: "text/plain; charset=utf-8",
+                    success: function (data) {;
+                        debugger;
+                        $.each(data, function (index, item) {
+                            $('#courses').append('<li>'+ item.title +'</li>')
+                        })
+                    }
+                })
+            </script>   
+     }
