@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONPDemo", "JSONPDemo\JSON
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JOSNPClient", "JOSNPClient\JOSNPClient.csproj", "{6CFDD435-73B2-4FD0-A314-76E6F630E388}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMethodOverride", "XMethodOverride\XMethodOverride.csproj", "{B6C59CA4-C96B-4E0C-A61F-7215A498515C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{6CFDD435-73B2-4FD0-A314-76E6F630E388}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CFDD435-73B2-4FD0-A314-76E6F630E388}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CFDD435-73B2-4FD0-A314-76E6F630E388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6C59CA4-C96B-4E0C-A61F-7215A498515C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C59CA4-C96B-4E0C-A61F-7215A498515C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C59CA4-C96B-4E0C-A61F-7215A498515C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C59CA4-C96B-4E0C-A61F-7215A498515C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
