@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadVideoClient.cs", "Upl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiSelfHost", "WebApiSelfHost\WebApiSelfHost.csproj", "{C9143956-0050-4913-8436-C5ECC9FFB78B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONPDemo", "JSONPDemo\JSONPDemo.csproj", "{7DF47B30-0E4B-4178-BCE9-42E7A2205314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JOSNPClient", "JOSNPClient\JOSNPClient.csproj", "{6CFDD435-73B2-4FD0-A314-76E6F630E388}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{C9143956-0050-4913-8436-C5ECC9FFB78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9143956-0050-4913-8436-C5ECC9FFB78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9143956-0050-4913-8436-C5ECC9FFB78B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF47B30-0E4B-4178-BCE9-42E7A2205314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF47B30-0E4B-4178-BCE9-42E7A2205314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF47B30-0E4B-4178-BCE9-42E7A2205314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF47B30-0E4B-4178-BCE9-42E7A2205314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CFDD435-73B2-4FD0-A314-76E6F630E388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFDD435-73B2-4FD0-A314-76E6F630E388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFDD435-73B2-4FD0-A314-76E6F630E388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFDD435-73B2-4FD0-A314-76E6F630E388}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
