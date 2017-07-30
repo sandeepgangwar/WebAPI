@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterClient", "TwitterCli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadVideoClient.cs", "UploadVideoClient.cs\UploadVideoClient.cs.csproj", "{D9494601-FC45-433A-B4A3-25E13433443F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiSelfHost", "WebApiSelfHost\WebApiSelfHost.csproj", "{C9143956-0050-4913-8436-C5ECC9FFB78B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D9494601-FC45-433A-B4A3-25E13433443F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9494601-FC45-433A-B4A3-25E13433443F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9494601-FC45-433A-B4A3-25E13433443F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9143956-0050-4913-8436-C5ECC9FFB78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9143956-0050-4913-8436-C5ECC9FFB78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9143956-0050-4913-8436-C5ECC9FFB78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9143956-0050-4913-8436-C5ECC9FFB78B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

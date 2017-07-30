@@ -1,0 +1,14 @@
+F:\GitReppos\WebAPI\WebApiSelfHost\bin\Debug\WebApiSelfHost.exe.config
+F:\GitReppos\WebAPI\WebApiSelfHost\bin\Debug\WebApiSelfHost.exe
+F:\GitReppos\WebAPI\WebApiSelfHost\bin\Debug\WebApiSelfHost.pdb
+F:\GitReppos\WebAPI\WebApiSelfHost\bin\Debug\Newtonsoft.Json.dll
+F:\GitReppos\WebAPI\WebApiSelfHost\bin\Debug\System.Net.Http.Formatting.dll
+F:\GitReppos\WebAPI\WebApiSelfHost\bin\Debug\System.Web.Http.dll
+F:\GitReppos\WebAPI\WebApiSelfHost\bin\Debug\System.Web.Http.SelfHost.dll
+F:\GitReppos\WebAPI\WebApiSelfHost\bin\Debug\Newtonsoft.Json.xml
+F:\GitReppos\WebAPI\WebApiSelfHost\bin\Debug\System.Net.Http.Formatting.xml
+F:\GitReppos\WebAPI\WebApiSelfHost\bin\Debug\System.Web.Http.xml
+F:\GitReppos\WebAPI\WebApiSelfHost\bin\Debug\System.Web.Http.SelfHost.xml
+F:\GitReppos\WebAPI\WebApiSelfHost\obj\Debug\WebApiSelfHost.csprojResolveAssemblyReference.cache
+F:\GitReppos\WebAPI\WebApiSelfHost\obj\Debug\WebApiSelfHost.exe
+F:\GitReppos\WebAPI\WebApiSelfHost\obj\Debug\WebApiSelfHost.pdb
