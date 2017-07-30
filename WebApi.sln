@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingCompany", "Training
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterClient", "TwitterClient\TwitterClient.csproj", "{058E74B0-00B3-48A9-8523-D15A2FDD0E86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadVideoClient.cs", "UploadVideoClient.cs\UploadVideoClient.cs.csproj", "{D9494601-FC45-433A-B4A3-25E13433443F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{058E74B0-00B3-48A9-8523-D15A2FDD0E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{058E74B0-00B3-48A9-8523-D15A2FDD0E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{058E74B0-00B3-48A9-8523-D15A2FDD0E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9494601-FC45-433A-B4A3-25E13433443F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9494601-FC45-433A-B4A3-25E13433443F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9494601-FC45-433A-B4A3-25E13433443F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9494601-FC45-433A-B4A3-25E13433443F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
